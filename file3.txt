@@ -1,2 +1,3 @@
 This is file3 from Bob
 This is line2 by Bob
+This is line2 by John
